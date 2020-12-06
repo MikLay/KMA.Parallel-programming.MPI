@@ -292,7 +292,7 @@ System.out.println(\"After thread completed: \" + thread.isAlive());
 ```
 
 
-##**Завдання**
+## **Завдання**
 
 1.  Протестувати всі приклади. (0.3 б)
 
